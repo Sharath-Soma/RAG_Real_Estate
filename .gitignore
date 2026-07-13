@@ -1,0 +1,83 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Python Packaging
+build/
+dist/
+*.egg-info/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Streamlit Cache
+.streamlit/cache/
+
+# Generated Vector Database
+vector_store/
+
+# Generated Output Files
+output.json
+
+# Temporary Files
+*.tmp
+*.temp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite
+*.sqlite3
+*.db
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+
+# Misc
+.cache/
+
+# Development files
+benchmark.py
+diag_pdf.py
+findstr_highlights.txt
+output.json
+read_brochures.py
+read_hbp.py
+read_mgr.py
+read_other_details.py
+test_fixes.py
+test_gemini.py
+test_metadata.py
+verify.py
+verify_all.py
+verify_fixes.py
+verify_project_queries.py
+implementation_plan.md
+TODO.md

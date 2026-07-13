@@ -40,7 +40,7 @@ from utils.search import KnowledgeBaseSearch
 from utils.cache import QueryCache
 
 SUGGESTIONS = [
-    "🏡 Compare Urban Heights and Green Valley",
+    "🏡 Compare Skyline Horizon Towers and Urban Nest Heights",
     "💰 I need a 3 BHK within 90 lakhs",
     "🏊 Properties with swimming pool and gym",
     "🎓 Near schools and metro stations",
